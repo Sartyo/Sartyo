@@ -9,6 +9,8 @@ Skills
 Python
 VS Code
 Angular
+React
+NextJs
 HTML5
 CSS3
 PostgreSQL
