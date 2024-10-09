@@ -1,21 +1,18 @@
-Hi My name is Daniel Rodríguez
-Web Developer and Designer
-I've been learning to code for years after starting my collegue carreer as a Systems Engineer student, currently on the process of waiting for my graduation this year
+Hola mi nombre es Daniel Rodríguez
+He estado aprendiendo a programar en distintos frameworks por algunos años durante mi carrera universitaria como estudiante de ingeniería de sistemas
 
-🌍  I'm based in Barcelona, Anzoategui, Venezuela
-✉️  You can contact me at danielarv14121999@gmail.com
-🧠  I'm learning Django, Angular frameworks
-Skills
+🌍  Vivo en Barcelona, Anzoategui, Venezuela
+✉️  Puedes contactarme a mi correo danielarv14121999@gmail.com
+🧠  Actualmente aprendiendo ReactJs y Javascript
+Competencia
 Python
 VS Code
 Angular
-React
-NextJs
 HTML5
 CSS3
 PostgreSQL
 Firebase
 MySQL
 Django
-Socials
 
+Mi link de perfil de LinkedIn: https://www.linkedin.com/in/sartyo/
