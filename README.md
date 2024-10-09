@@ -4,15 +4,16 @@ He estado aprendiendo a programar en distintos frameworks por algunos años dura
 🌍  Vivo en Barcelona, Anzoategui, Venezuela
 ✉️  Puedes contactarme a mi correo danielarv14121999@gmail.com
 🧠  Actualmente aprendiendo ReactJs y Javascript
-Competencia
-Python
-VS Code
-Angular
-HTML5
-CSS3
-PostgreSQL
-Firebase
-MySQL
-Django
+
+Tengo conocimientos en:
+  -Python
+  -VS Code
+  -Angular
+  -HTML5
+  -CSS3
+  -PostgreSQL
+  -Firebase
+  -MySQL
+  -Django
 
 Mi link de perfil de LinkedIn: https://www.linkedin.com/in/sartyo/
